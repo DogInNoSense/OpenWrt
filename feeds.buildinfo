@@ -3,5 +3,5 @@ src-git luci https://github.com/coolsnowwolf/luci^2a380a3
 src-git routing https://github.com/coolsnowwolf/routing^7b8ea37
 src-git telephony https://git.openwrt.org/feed/telephony.git^0403af5
 src-git helloworld https://github.com/fw876/helloworld^02fc827
-src-git kenzo https://github.com/kenzok8/openwrt-packages^7a170d1
+src-git kenzo https://github.com/kenzok8/openwrt-packages^3c9105d
 src-git small https://github.com/kenzok8/small^ace37f7
